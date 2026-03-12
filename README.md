@@ -12,7 +12,7 @@ A NOC that feels like a sci-fi command center:
 - `Syne` (display) + `DM Sans` (body) typography pairing
 - Electric cyan/blue neon palette on deep void background
 
-Architecture — Clean Architecture + GetX
+Architecture — Clean Architecture 
 
 lib/
 ├── core/
