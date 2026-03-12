@@ -18,8 +18,8 @@ class AuthController extends GetxController {
         password.trim() == AppConstants.adminPassword) {
       user.value = const User(
         email: AppConstants.adminEmail,
-        name: 'Alex Morgan',
-        role: 'NOC Engineer',
+        name: 'Galib Mahmud',
+        role: 'Jr Flutter Developer',
       );
       final box = Hive.box(HiveKeys.settingsBox);
       await box.put(HiveKeys.loggedInKey, true);
