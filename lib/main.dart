@@ -61,8 +61,7 @@ class NOCApp extends StatelessWidget {
         ),
       ],
       defaultTransition: Transition.cupertino,
-       // Beautiful GetX snackbar styling
-       //  snackbarMaxWidth: 420,
+
     );
   }
 }

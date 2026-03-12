@@ -130,7 +130,7 @@ class _LoginPageState extends State<LoginPage> with TickerProviderStateMixin {
         ),
         const SizedBox(height: 22),
         Text(
-          'PLEXUS NOC',
+          'PLEXUS ',
           style: GoogleFonts.syne(
             fontSize: 30,
             fontWeight: FontWeight.w800,
@@ -138,7 +138,7 @@ class _LoginPageState extends State<LoginPage> with TickerProviderStateMixin {
             letterSpacing: 6,
           ),
         ),
-        const SizedBox(height: 6),
+        const SizedBox(height: 10),
         Text(
           'NETWORK OPERATIONS CENTER',
           style: GoogleFonts.dmSans(
